@@ -6,7 +6,8 @@ plug and play users service to get, add,modify and delete users.
     - Clone this repo and 
     - Run 'users.py'
 # Start Interacting with a service
-    using POSTMAN view service information;
+    use CURL/POSTMAN/http client.
+    View service information;
     - run 'GET' http://localhost:5000 
   
     Get users details;
