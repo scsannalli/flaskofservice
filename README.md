@@ -1,4 +1,7 @@
 # flaskofservice
+'flaskofservice' is a demo users service app. 
+plug and play users service to get users , add , modify and delete users. 
+
 To start using 'users service'
   Clone this repo and 
   Run 'users.py'
